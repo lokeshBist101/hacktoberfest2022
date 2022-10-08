@@ -8,3 +8,6 @@ def findDuplicates(nums):
         nums[index] = - nums[index]
             
     return 
+
+# Time Complexity : O(n)
+# Space Complexity : O(1)
